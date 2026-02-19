@@ -1,4 +1,4 @@
-module github.com/openziti/agent
+module github.com/hanzozt/agent
 
 go 1.23.0
 
